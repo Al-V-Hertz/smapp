@@ -1,6 +1,6 @@
 body{
     height: 100%;
-    background-image:url(admin/img/dbimg.jpg);
+    background-image:url('../img/landing-bg.jpg');
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
@@ -21,6 +21,7 @@ body{
     height: 100%;
 }
 .jumbotron{
+    /* color: white; */
     margin-bottom: 0;
     height: 40%;
     background-color: transparent; 
