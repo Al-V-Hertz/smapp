@@ -11,5 +11,11 @@
         <div class="slide">
             
         </div>
+        <div class="categories">
+
+        </div>
+    </div>
+    <div class="footer">
+        
     </div>
 @endsection

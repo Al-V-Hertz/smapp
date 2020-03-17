@@ -19,3 +19,6 @@ Route::get('/', function () {
 Route::get('/menu', function () {
     return view('menu');
 });
+Route::get('/admin-login', function () {
+    return view('admin.admin-signin');
+});
