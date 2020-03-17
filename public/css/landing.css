@@ -1,6 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Anton&display=swap');
 body{
-    background-image: url("img/landing-bg.jpg");
+    background-image: url("../img/landing-bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .cover{
     width: 100%;
